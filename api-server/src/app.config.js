@@ -5,6 +5,6 @@
  */
 class AppConfig {
     version = '1.0.1';
-    team = 'We are rockstars';
+    team = 'We are rockstars--this is my first change in git';
 }
 module.exports = AppConfig;
